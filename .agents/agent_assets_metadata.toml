@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "1KAKOPJ7A9oTtSvLeNioP"
+uri = "file://artifacts/mobile/assets/images/icon.png"
+type = "image"
+title = "ticketburied shield app icon"
